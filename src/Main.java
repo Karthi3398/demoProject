@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[]args){
         System.out.println("Production test release...");
         System.out.println("Production prodA release...");
+
         List<DemoDM> demoDMList = new ArrayList<>();
         demoDMList = getDemoList();
         if(demoDMList!=null && demoDMList.size() > 0){
