@@ -14,6 +14,8 @@ public class Main {
             }
         }
 
+        System.out.println("PRINTING STATEMENT ADDED SUCCESSFULLY")
+
     }
 
     public static List<DemoDM> getDemoList(){
