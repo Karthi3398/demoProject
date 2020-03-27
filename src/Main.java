@@ -14,6 +14,9 @@ public class Main {
             }
         }
 
+        EmptyClass emptyClass = new EmptyClass();
+        emptyClass.add(10,21);
+
     }
 
     public static List<DemoDM> getDemoList(){
