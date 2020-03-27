@@ -10,4 +10,9 @@ public class EmptyClass {
         System.out.println("ADDED VALUE IS "+c);
     }
 
+    public static void subtract(int a, int b){
+        int c  = a-b;
+        System.out.println("SUBTRACTED VALUE IS "+c);
+    }
+
 }

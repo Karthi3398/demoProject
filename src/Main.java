@@ -16,6 +16,7 @@ public class Main {
 
         EmptyClass emptyClass = new EmptyClass();
         emptyClass.add(10,21);
+        emptyClass.subtract(20,10);
 
     }
 
